@@ -1,0 +1,90 @@
+
+.header {
+      display: flex;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 25px;
+      line-height: 38px;
+/* identical to box height */
+
+
+color: #404242;
+
+
+
+} 
+  
+.header-navigation{
+      position: relative;
+
+      padding: 0;
+       margin: 0;
+      list-style-type: none;
+
+      display: flex;
+      align-items: center;
+}
+
+.header-navItem {
+      margin-right: 60px;
+
+
+
+}
+
+
+  
+.heade-logo {
+      margin-right: 93px;
+}
+
+.header-button {
+      
+      display: inline-block;
+      min-width: 200px;
+      border-radius: 15px;
+      padding: 13px 52px;
+      border: 0;
+      background: #fff;
+
+      display: flex;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 25px;
+      line-height: 1.52;
+      color: #404242;
+      align-items: center;
+      
+
+}
+
+.header-button_singUp {
+      display: inline-block;
+      min-width: 200px;
+      border-radius: 15px;
+      padding: 13px 52px;
+      border: 0;
+
+
+      color: #fff; ;
+      background: #58A9A5;
+
+      display: flex;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 25px;
+      line-height: 1.52;
+      align-items: center;
+      
+}
+
+
+
+
+
+      
+      
+
+
+
+  
